@@ -1,36 +1,34 @@
-# AI-Disaster-Prediction
+# Research-Proposal-NPSC5000
 
 ## Overview
-This repository contains research and analysis on the use of Artificial Intelligence (AI) in predicting and mitigating natural disasters. The project examines AI applications in different phases of disaster management, including prevention, preparedness, response, and recovery.
+This repository contains the research proposal for the **NPSC5000 Final Assessment** at Curtin University. The project explores practical and ethical considerations necessary to undertake a research study, including a literature review, research design, and methodology.
 
 ## Project Objective
-The objective of this project is to explore AI’s role in disaster management by:
-- Analyzing the latest AI models used in predicting and mitigating natural disasters.
-- Evaluating the strengths and limitations of AI in disaster response.
-- Discussing ethical and practical concerns associated with AI-driven disaster management.
+The objective of this research proposal is to:
+- Define a clear research question based on existing literature gaps.
+- Outline a structured methodology to conduct research.
+- Address ethical and practical considerations in research design.
+- Present findings through a structured proposal and group presentation.
 
-## Research Approach
-- **Literature Review:** Reviewing key articles on AI applications in disaster management.
-- **Case Studies:** Examining real-world AI implementations for disaster prediction and response.
-- **Analysis:** Evaluating AI-based models used for disaster forecasting and mitigation.
+## Research Components
+- **Literature Review:** Identifying gaps in existing research.
+- **Research Design:** Methodology, data collection, and analysis methods.
+- **Ethical Considerations:** Addressing privacy, data protection, and social impact.
+- **Presentation:** A recorded group pitch summarizing the research.
 
-## Key Findings
-- AI is increasingly being used to forecast natural disasters such as hurricanes, wildfires, and floods.
-- Predictive analytics and machine learning models are improving disaster response efficiency.
-- Ethical concerns around data privacy and reliability remain challenges for AI adoption in this field.
-
-## Tools & Technologies Used
-- **Programming Language:** Python (for data modeling and analysis)
-- **Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy
-- **Sources:** Google Scholar, SpringerLink, and peer-reviewed journals
+## Key Sections in the Proposal
+1. **Introduction & Problem Statement** – Background and significance of the study.
+2. **Research Design & Methodology** – Data collection and analysis techniques.
+3. **Practical Considerations** – Limitations, timeline, and ethical concerns.
+4. **Conclusion** – Summary of expected contributions.
 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Disaster-Prediction.git
+   git clone https://github.com/yourusername/Research-Proposal-NPSC5000.git
    ```
-2. Open the research documents and review the findings.
-3. Run the Python scripts (if applicable) to explore AI-based models for disaster prediction.
+2. Open the proposal document and review the methodology and findings.
+3. Use the reference materials provided to improve your own research proposals.
 
 ## Contributors
 - **Syed Muhammad Ahmed Zaidi**
